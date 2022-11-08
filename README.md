@@ -36,7 +36,7 @@ docker inspect redsuda
 
 ![image](https://user-images.githubusercontent.com/91167211/200641749-1290e6ea-652c-4f2c-a2b8-14fec0f660b4.png)
 
->> Abrimos el puerto 8090 e iniciamos seción 
+>> Abrimos el puerto 8090 e iniciamos sesión 
 
 ![image](https://user-images.githubusercontent.com/91167211/200642049-dd12da4d-2643-45b8-814c-fd6cb87fe252.png)
 
