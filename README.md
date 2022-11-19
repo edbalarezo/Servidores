@@ -42,5 +42,4 @@ docker inspect redsuda
 
 - Creamos una base de datos
 
-![image](https://user-images.githubusercontent.com/91167211/202855469-63d9859c-3c8e-4f8d-9af9-f1bdd08108ea.png)
-
+![image](https://user-images.githubusercontent.com/91167211/202855503-458087ad-bbff-4edc-a16a-82e1beb6282f.png)
